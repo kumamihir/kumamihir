@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **Just a 'NOOB'**
 
-- 📝 Watch My Work : https://benevolent-haupia-eb3c73.netlify.app/
+- 📝 PortFolio : https://benevolent-haupia-eb3c73.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
