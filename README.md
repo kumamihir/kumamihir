@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mihir Kumar</h1>
 <p align="left"> <a href="https://twitter.com/mihirkumar88071" target="blank"><img src="https://img.shields.io/twitter/follow/mihirkumar88071?logo=twitter&style=for-the-badge" alt="mihirkumar88071" /></a> </p>
 
-- 🌱 I’m in love with **Data-Science** and  **Backend-Development**
+- 🌱 I’m in love with **DSA** and  **Backend-Development**
 
 - 📝 I regularly Post on [https://x.com/MIHIRKumar88071](https://x.com/MIHIRKumar88071)
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mihirkumar1208@gmail.com**
 
-- ⚡ Fun fact **Just a 'NOOB'**
+- ⚡ **Just a 'NOOB'**
 
 - 📝 PortFolio : https://benevolent-haupia-eb3c73.netlify.app/
 
