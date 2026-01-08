@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mihir Kumar</h1>
 <p align="left"> <a href="https://twitter.com/mihirkumar88071" target="blank"><img src="https://img.shields.io/twitter/follow/mihirkumar88071?logo=twitter&style=for-the-badge" alt="mihirkumar88071" /></a> </p>
 
-- 🌱 I’m in love with **DSA** and  **Backend-Development**
+- 🌱 I’m in love with **DSA** and  **Backend-Development**.
 
-- 📝 I regularly Post on (https://x.com/MIHIRKumar88071)
+- 📝“Not very active here, but I post occasionally on X: https://x.com/MIHIRKumar88071”
 
-- 💬 Ask me about **DSA and Backend**
+- 💬 Ask me about **DSA and Backend**.
 
 - 📫 How to reach me **mihirkumar1208@gmail.com**
 
