@@ -3,7 +3,7 @@
 
 - 🌱 I’m in love with **DSA** and  **Backend-Development**.
 
-- 📝“Not very active here, but I post occasionally on X: https://x.com/MIHIRKumar88071”
+- 📝Not very active here, but I post occasionally on X: https://x.com/MIHIRKumar88071
 
 - 💬 Ask me about **DSA and Backend**.
 
