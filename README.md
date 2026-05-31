@@ -12,18 +12,7 @@
 
 ### `> whoami`
 
-```js
-const mihir = {
-  name    : "Mihir Kumar",
-  alias   : "kumamihir",
-  role    : "2nd Year BTech — ECE",
-  focus   : ["DSA", "Backend Dev"],
-  stack   : ["C++", "Node.js", "MongoDB", "Express"],
-  status  : "Grinding. Building. Shipping. ",
-  mood    : () => "☕ + 💻 → 🔥",
-  quote   : "Still a NOOB — but I ship every day.",
-};
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=500&color=3FB950&vCenter=true&multiline=true&repeat=false&width=480&height=180&lines=const+mihir+%3D+%7B;++name++++%3A+%22Mihir+Kumar%22%2C;++role++++%3A+%222nd+Year+BTech+—+ECE%22%2C;++focus+++%3A+%5B%22DSA%22%2C+%22Backend+Dev%22%5D%2C;++stack+++%3A+%5B%22C%2B%2B%22%2C+%22Node.js%22%2C+%22MongoDB%22%5D%2C;++status++%3A+%22Grinding.+Building.+Shipping.%22%2C;%7D%3B" alt="about me" />
 
 > 💡 **Currently:** Leveling up on System Design & DSA patterns
 
@@ -37,7 +26,7 @@ const mihir = {
 ```
 Arrays & Strings    [██████████████░░]  Strong
 Trees & Graphs      [█████████████░░░]  Strong
-Binary Search       [████████████████]  Beast Mode 
+Binary Search       [████████████████]  Beast Mode 🔥
 Dynamic Programming [█████████░░░░░░░]  Leveling Up
 Greedy Algorithms   [███████████░░░░░]  Active
 ```
@@ -66,13 +55,7 @@ Greedy Algorithms   [███████████░░░░░]  Active
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kumamihir&theme=dark&hide_border=true&background=0D1117&stroke=3FB950&ring=3FB950&fire=FF6E6E&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&mode=weekly)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Mihir's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kumamihir&bg_color=0d1117&color=3fb950&line=3fb950&point=58a6ff&area=true&hide_border=true&from=2025-01-01)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mihir's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kumamihir&bg_color=0d1117&color=3fb950&line=3fb950&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
