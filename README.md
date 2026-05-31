@@ -2,15 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Mihir%20Kumar&fontSize=70&color=0:0d1117,100:0d1117&stroke=3fb950&strokeWidth=3&fontColor=3fb950&animation=fadeIn&fontAlignY=55&desc=ECE%20%7C%20DSA%20%2B%20Backend%20%7C%20Builder&descSize=18&descAlignY=75&descColor=58a6ff" />
 
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=3FB950&center=true&vCenter=true&multiline=false&random=false&width=500&lines=function+mihir()+%7B+return+'awesome'+%7D+%E2%9C%93;Solving+LeetCode+at+2am+%F0%9F%8C%99;Node.js+%7C+Express+%7C+MongoDB+%E2%9A%99%EF%B8%8F;ECE+%E2%86%92+BTech+%7C+2nd+Year+%F0%9F%8E%93;git+commit+-m+'another+day+grinding'+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=3FB950&center=true&vCenter=true&width=500&lines=function+mihir()+%7B+return+'awesome'+%7D+%E2%9C%93;Solving+LeetCode+at+2am+%F0%9F%8C%99;Node.js+%7C+Express+%7C+MongoDB+%E2%9A%99%EF%B8%8F;ECE+%E2%86%92+BTech+%7C+2nd+Year+%F0%9F%8E%93;git+commit+-m+'another+day+grinding'+%F0%9F%94%A5" alt="Typing SVG" />
 
 </div>
-
-<br/>
 
 ---
 
@@ -26,7 +20,7 @@ $ cat mihir.config
   role     : "2nd Year BTech ECE",
   focus    : ["DSA", "Backend Dev"],
   status   : "Grinding. Building. Shipping.",
-  mood     : "☕ + 💻 = 🚀",
+  mood     : "coffee + code = rocket",
   quote    : "Still a NOOB — but every day I commit."
 }
 ```
@@ -70,21 +64,13 @@ Greedy              [███████████░░░░░]  Active
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kumamihir&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9&border_radius=10" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumamihir&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&border_radius=10" height="170"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kumamihir&theme=dark&hide_border=true&background=0D1117&stroke=3FB950&ring=3FB950&fire=FF6E6E&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kumamihir&theme=dark&hide_border=true&background=0D1117&stroke=3FB950&ring=3FB950&fire=FF6E6E&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kumamihir&bg_color=0d1117&color=3fb950&line=3fb950&point=58a6ff&area=true&hide_border=true" />
+[![Mihir's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kumamihir&bg_color=0d1117&color=3fb950&line=3fb950&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -118,11 +104,5 @@ Greedy              [███████████░░░░░]  Active
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,100:58a6ff&height=100&section=footer&text=Keep+Building.+Keep+Breaking.+Keep+Shipping.&fontSize=14&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
-
-</div>
-
-<div align="center">
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=kumamihir&label=Profile+Views&color=12&icon=5&pretty=true)
 
 </div>
