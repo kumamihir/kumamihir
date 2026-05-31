@@ -1,30 +1,131 @@
-<h1 align="center">Hi 👋, I'm Mihir Kumar</h1>
-<p align="left"> <a href="https://twitter.com/mihirkumar88071" target="blank"><img src="https://img.shields.io/twitter/follow/mihirkumar88071?logo=twitter&style=for-the-badge" alt="mihirkumar88071" /></a> </p>
+<!-- Header -->
+<div align="center">
 
-- 🌱 I’m in love with **DSA** and  **Backend-Development**.
+```
+██╗  ██╗██╗    ███╗   ███╗██╗██╗  ██╗██╗██████╗
+██║  ██║██║    ████╗ ████║██║██║  ██║██║██╔══██╗
+███████║██║    ██╔████╔██║██║███████║██║██████╔╝
+██╔══██║██║    ██║╚██╔╝██║██║██╔══██║██║██╔══██╗
+██║  ██║██║    ██║ ╚═╝ ██║██║██║  ██║██║██║  ██║
+╚═╝  ╚═╝╚═╝    ╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
+```
 
-- 📝Not very active here, but I post occasionally on X: https://x.com/MIHIRKumar88071
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=3FB950&center=true&vCenter=true&random=false&width=600&lines=%24+whoami+%E2%86%92+Mihir+Kumar;2nd+Year+BTech+%7C+ECE;DSA+%2B+Backend+Dev;Obsessed+with+Algorithms+%26+Systems" alt="Typing SVG" />
 
-- 💬 Ask me about **DSA and Backend**.
+<br/>
 
-- 📫 How to reach me **mihirkumar1208@gmail.com**
+![Followers](https://img.shields.io/github/followers/kumamihir?style=flat-square&color=3fb950&labelColor=161b22&label=followers)
+![Stars](https://img.shields.io/github/stars/kumamihir?style=flat-square&color=58a6ff&labelColor=161b22)
+[![Twitter](https://img.shields.io/twitter/follow/mihirkumar88071?style=flat-square&color=1d9bf0&labelColor=161b22&logo=twitter)](https://twitter.com/mihirkumar88071)
 
-- ⚡ **Just a 'NOOB'**
+</div>
 
-- 📝 Codolio profile : https://codolio.com/profile/Mihir_kr012
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mihirkumar88071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mihirkumar88071" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mihir-kumar-93b6b4325/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mihir-kumar-93b6b4325/" height="30" width="40" /></a>
-<a href="https://instagram.com/mihir_007k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mihir_007k" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/mihir_kumar07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mihir_kumar07/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/mihirflaxx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/mihirflaxx/" height="30" width="40" /></a>
-</p>
+## `$ cat about.txt`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+```yaml
+name       : Mihir Kumar
+alias      : kumamihir
+pronouns   : he/him
+degree     : B.Tech ECE — 2nd Year
+status     : Grinding DSA & building backends
+currently  : Learning system design + exploring DSA patterns
+vibe       : "Just a NOOB who ships things"
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumamihir&show_icons=true&locale=en&layout=compact" alt="kumamihir" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumamihi
+## `$ ls -la skills/`
+
+### 🧠 DSA & Problem Solving
+
+```
+├── Arrays & Strings         ████████████░░  active
+├── Trees & Graphs           ███████████░░░  active  
+├── Dynamic Programming      █████████░░░░░  learning
+├── Binary Search            ████████████░░  strong
+└── Greedy Algorithms        ██████████░░░░  active
+```
+
+### ⚙️ Languages & Tools
+
+<div align="left">
+
+| Category | Technologies |
+|:------|:------|
+| **Languages** | C · C++ · Python · JavaScript |
+| **Backend** | Node.js · Express.js · REST APIs |
+| **Database** | MongoDB |
+| **Frontend** | React · HTML5 · CSS3 · Tailwind CSS |
+| **ML/Data** | scikit-learn · Pandas · Seaborn |
+| **DevTools** | Git · GitHub |
+
+</div>
+
+---
+
+## `$ cat activity.log`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kumamihir&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumamihir&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9" height="160"/>
+
+</div>
+
+<div align="center">
+
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=kumamihir&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=3fb950&fire=f778ba&currStreakLabel=3fb950)
+
+</div>
+
+---
+
+## `$ cat platforms.json`
+
+```json
+{
+  "competitive_programming": {
+    "leetcode"  : "https://leetcode.com/u/mihir_kumar07/",
+    "codolio"   : "https://codolio.com/profile/Mihir_kr012",
+    "gfg"       : "https://geeksforgeeks.org/user/mihirflaxx/"
+  },
+  "socials": {
+    "twitter"   : "https://x.com/MIHIRKumar88071",
+    "linkedin"  : "https://www.linkedin.com/in/mihir-kumar-93b6b4325/",
+    "instagram" : "https://instagram.com/mihir_007k"
+  },
+  "contact": {
+    "email"     : "mihirkumar1208@gmail.com"
+  }
+}
+```
+
+---
+
+## `$ connect --with me`
+
+<div align="left">
+
+[![Twitter](https://img.shields.io/badge/Twitter-@MIHIRKumar88071-1d9bf0?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/mihirkumar88071)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mihir--kumar-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihir-kumar-93b6b4325/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-mihir__kumar07-ffa116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/mihir_kumar07/)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-mihirflaxx-2f8d46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/mihirflaxx/)
+[![Codolio](https://img.shields.io/badge/Codolio-Mihir__kr012-6e40c9?style=flat-square)](https://codolio.com/profile/Mihir_kr012)
+[![Email](https://img.shields.io/badge/Email-mihirkumar1208@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mihirkumar1208@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+> Still learning. Still building. Still a noob.
+> But the diff is committing every day. 🌱
+```
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=kumamihir&label=Profile+Views&color=1&icon=5&pretty=false)
+
+</div>
