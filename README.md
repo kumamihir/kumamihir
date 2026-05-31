@@ -8,22 +8,24 @@
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ### `> whoami`
 
-```bash
-$ cat mihir.config
-{
-  name     : "Mihir Kumar",
-  alias    : "kumamihir",
-  role     : "2nd Year BTech ECE",
-  focus    : ["DSA", "Backend Dev"],
-  status   : "Grinding. Building. Shipping.",
-  mood     : "coffee + code = rocket",
-  quote    : "Still a NOOB — but every day I commit."
-}
+```js
+const mihir = {
+  name    : "Mihir Kumar",
+  alias   : "kumamihir",
+  role    : "2nd Year BTech — ECE",
+  focus   : ["DSA 🧠", "Backend Dev ⚙️"],
+  stack   : ["C++", "Node.js", "MongoDB", "Express"],
+  status  : "Grinding. Building. Shipping. 🚀",
+  mood    : () => "☕ + 💻 → 🔥",
+  quote   : "Still a NOOB — but I ship every day.",
+};
 ```
+
+> 💡 **Currently:** Leveling up on System Design & DSA patterns
 
 <br clear="right"/>
 
@@ -34,10 +36,10 @@ $ cat mihir.config
 **🧠 DSA Arsenal**
 ```
 Arrays & Strings    [██████████████░░]  Strong
-Trees & Graphs      [█████████████░░░]  Strong  
-Binary Search       [████████████████]  Beast Mode
+Trees & Graphs      [█████████████░░░]  Strong
+Binary Search       [████████████████]  Beast Mode 🔥
 Dynamic Programming [█████████░░░░░░░]  Leveling Up
-Greedy              [███████████░░░░░]  Active
+Greedy Algorithms   [███████████░░░░░]  Active
 ```
 
 **⚙️ Tech Stack**
@@ -64,13 +66,13 @@ Greedy              [███████████░░░░░]  Active
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kumamihir&theme=dark&hide_border=true&background=0D1117&stroke=3FB950&ring=3FB950&fire=FF6E6E&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kumamihir&theme=dark&hide_border=true&background=0D1117&stroke=3FB950&ring=3FB950&fire=FF6E6E&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&mode=weekly)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![Mihir's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kumamihir&bg_color=0d1117&color=3fb950&line=3fb950&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mihir's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kumamihir&bg_color=0d1117&color=3fb950&line=3fb950&point=58a6ff&area=true&hide_border=true&from=2025-01-01)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
