@@ -17,9 +17,9 @@ const mihir = {
   name    : "Mihir Kumar",
   alias   : "kumamihir",
   role    : "2nd Year BTech — ECE",
-  focus   : ["DSA 🧠", "Backend Dev ⚙️"],
+  focus   : ["DSA", "Backend Dev"],
   stack   : ["C++", "Node.js", "MongoDB", "Express"],
-  status  : "Grinding. Building. Shipping. 🚀",
+  status  : "Grinding. Building. Shipping. ",
   mood    : () => "☕ + 💻 → 🔥",
   quote   : "Still a NOOB — but I ship every day.",
 };
@@ -37,7 +37,7 @@ const mihir = {
 ```
 Arrays & Strings    [██████████████░░]  Strong
 Trees & Graphs      [█████████████░░░]  Strong
-Binary Search       [████████████████]  Beast Mode 🔥
+Binary Search       [████████████████]  Beast Mode 
 Dynamic Programming [█████████░░░░░░░]  Leveling Up
 Greedy Algorithms   [███████████░░░░░]  Active
 ```
