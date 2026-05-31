@@ -17,15 +17,14 @@ const mihir = {
   name    : "Mihir Kumar",
   alias   : "kumamihir",
   role    : "2nd Year BTech — ECE",
-  focus   : ["DSA 🧠", "Backend Dev ⚙️"],
+  focus   : ["DSA", "Backend Dev ⚙️"],
   stack   : ["C++", "Node.js", "MongoDB", "Express"],
-  status  : "Grinding. Building. Shipping. 🚀",
-  mood    : () => "☕ + 💻 → 🔥",
+  status  : "Grinding. Building. Shipping.",
   quote   : "Still a NOOB — but I ship every day.",
 };
 ```
 
-> 💡 **Currently:** Leveling up on System Design & DSA patterns
+>  **Currently:** Leveling up on System Design & DSA patterns
 
 <br clear="right"/>
 
@@ -33,12 +32,12 @@ const mihir = {
 
 ### `> ./run skills.sh`
 
-**🧠 DSA Arsenal**
+** DSA Arsenal**
 
 ```
 Arrays & Strings    [██████████████░░]  Strong
 Trees & Graphs      [█████████████░░░]  Strong
-Binary Search       [████████████████]  Beast Mode 🔥
+Binary Search       [████████████████]  Strong 
 Dynamic Programming [█████████░░░░░░░]  Leveling Up
 Greedy Algorithms   [███████████░░░░░]  Active
 ```
