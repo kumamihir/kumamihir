@@ -1,45 +1,62 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Mihir%20Kumar&fontSize=70&color=0:0d1117,100:0d1117&stroke=3fb950&strokeWidth=3&fontColor=3fb950&animation=fadeIn&fontAlignY=55&desc=ECE%20%7C%20DSA%20%2B%20Backend%20%7C%20Builder&descSize=18&descAlignY=75&descColor=58a6ff" />
+<!-- ANIMATED HEADER — VENOM WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Mihir%20Kumar&fontSize=75&color=0:0d1117,100:0d1117&stroke=3fb950&strokeWidth=3&fontColor=3fb950&animation=fadeIn&fontAlignY=55&desc=ECE%20%7C%20DSA%20%2B%20Backend%20%7C%20Builder%20%7C%20Shipper&descSize=18&descAlignY=75&descColor=58a6ff" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=3FB950&center=true&vCenter=true&width=500&lines=function+mihir()+%7B+return+'awesome'+%7D+%E2%9C%93;Solving+LeetCode+at+2am+%F0%9F%8C%99;Node.js+%7C+Express+%7C+MongoDB+%E2%9A%99%EF%B8%8F;ECE+%E2%86%92+BTech+%7C+2nd+Year+%F0%9F%8E%93;git+commit+-m+'another+day+grinding'+%F0%9F%94%A5" alt="Typing SVG" />
+<br/>
+
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=3FB950&center=true&vCenter=true&width=560&lines=function+mihir()+%7B+return+'awesome'+%7D+%E2%9C%93;Building+backends+that+don't+break+%E2%9A%99%EF%B8%8F;Node.js+%7C+Express+%7C+MongoDB+%7C+C%2B%2B;ECE+BTech+%7C+2nd+Year+%7C+2026+%F0%9F%8E%93;LeetCode+grind+at+2am+%F0%9F%8C™;git+push+--force+%26%26+pray+%F0%9F%99%8F;Still+a+NOOB+—+but+shipping+every+day+%F0%9F%94%A5" alt="Typing SVG" />
+
+<br/>
+
+<!-- SNAKE CONTRIBUTION ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kumamihir/kumamihir/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kumamihir/kumamihir/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kumamihir/kumamihir/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+## `> whoami`
 
-### `> whoami`
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```js
 const mihir = {
-  name    : "Mihir Kumar",
-  alias   : "kumamihir",
-  role    : "2nd Year BTech — ECE",
-  focus   : ["DSA", "Backend Dev ⚙️"],
-  stack   : ["C++", "Node.js", "MongoDB", "Express"],
-  status  : "Grinding. Building. Shipping.",
-  quote   : "Still a NOOB — but I ship every day.",
+  name     : "Mihir Kumar",
+  alias    : "kumamihir",
+  role     : "2nd Year BTech — ECE @ [Your College]",
+  focus    : ["DSA ", "Backend Dev ", "System Design "],
+  stack    : ["C++", "Node.js", "MongoDB", "Express.js"],
+  currentlyLearning : ["System Design", "Redis", "Docker"],
+  status   : " Grinding. Building. Shipping.",
+  openTo   : ["Internships", "Collabs", "Open Source"],
+  funFact  : "My git log is basically my diary ",
+  quote    : "Still a NOOB — but I ship every day.",
 };
 ```
 
->  **Currently:** Leveling up on System Design & DSA patterns
+>  **Currently:** Leveling up on System Design, DSA patterns & building backend projects
 
 <br clear="right"/>
 
 ---
 
-### `> ./run skills.sh`
+## `> ./run skills.sh`
 
 ** DSA Arsenal**
 
 ```
-Arrays & Strings    [██████████████░░]  Strong
-Trees & Graphs      [█████████████░░░]  Strong
-Binary Search       [████████████████]  Strong 
-Dynamic Programming [█████████░░░░░░░]  Leveling Up
-Greedy Algorithms   [███████████░░░░░]  Active
+Arrays & Strings    ████████████████░░  Strong
+Trees & Graphs      ███████████████░░░  Strong
+Binary Search       ████████████████░░  Strong
+Dynamic Programming █████████░░░░░░░░░  Leveling Up 
+Greedy Algorithms   ████████████░░░░░░  Active
+Bit Manipulation    ████████░░░░░░░░░░  Warming Up
 ```
 
 **⚙️ Tech Stack**
@@ -56,23 +73,38 @@ Greedy Algorithms   [███████████░░░░░]  Active
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 </div>
 
 ---
 
-### `> cat stats.log`
+## `> cat stats.log`
 
 <div align="center">
 
-[![Mihir's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kumamihir&bg_color=0d1117&color=3fb950&line=3fb950&point=58a6ff&area=true&hide_border=true&custom_title=Mihir%27s+Contribution+Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kumamihir&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9&ring_color=3fb950&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumamihir&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=kumamihir&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3FB950&fire=58A6FF&currStreakLabel=3FB950&sideLabels=58A6FF&dates=8b949e" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+[![Mihir's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kumamihir&bg_color=0d1117&color=3fb950&line=3fb950&point=58a6ff&area=true&area_color=3fb95020&hide_border=true&custom_title=Mihir%27s+Contribution+Graph&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-### `> ls -la /competitive_programming`
+## `> ls -la /competitive_programming`
 
 <div align="center">
 
@@ -82,9 +114,27 @@ Greedy Algorithms   [███████████░░░░░]  Active
 
 </div>
 
+<!-- LEETCODE STATS CARD -->
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/mihir_kumar07?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=10" alt="LeetCode Stats" />
+
+</div>
+
 ---
 
-### `> connect --all`
+## `> top -pid projects`
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kumamihir&repo=YOUR_BEST_REPO_1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/kumamihir/YOUR_BEST_REPO_1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kumamihir&repo=YOUR_BEST_REPO_2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/kumamihir/YOUR_BEST_REPO_2)
+
+</div>
+
+---
+
+## `> connect --all`
 
 <div align="center">
 
@@ -97,8 +147,30 @@ Greedy Algorithms   [███████████░░░░░]  Active
 
 ---
 
+<!-- PROFILE VIEWS COUNTER + TROPHY -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,100:58a6ff&height=100&section=footer&text=Keep+Building.+Keep+Breaking.+Keep+Shipping.&fontSize=14&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
+![Profile Views](https://komarev.com/ghpvc/?username=kumamihir&color=3fb950&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kumamihir&theme=matrix&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<!-- RANDOM DEV QUOTE -->
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,100:58a6ff&height=120&section=footer&text=Keep+Building.+Keep+Breaking.+Keep+Shipping.&fontSize=16&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
 
 </div>
