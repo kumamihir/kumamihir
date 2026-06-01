@@ -1,27 +1,19 @@
 <div align="center">
 
-<!-- ANIMATED HEADER — VENOM WAVE -->
+<!-- ANIMATED HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Mihir%20Kumar&fontSize=75&color=0:0d1117,100:0d1117&stroke=3fb950&strokeWidth=3&fontColor=3fb950&animation=fadeIn&fontAlignY=55&desc=ECE%20%7C%20DSA%20%2B%20Backend%20%7C%20Builder%20%7C%20Shipper&descSize=18&descAlignY=75&descColor=58a6ff" />
 
 <br/>
 
-<!-- TYPING ANIMATION — fixed encoding, no broken emoji chars -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=3FB950&center=true&vCenter=true&width=580&lines=function+mihir()+%7B+return+'awesome'+%7D;Building+backends+that+don't+break+%E2%9A%99%EF%B8%8F;617+LeetCode+solved+and+counting...;ECE+BTech+%7C+2nd+Year+%7C+Grinding+%F0%9F%94%A5;git+push+--force+%26%26+pray+%F0%9F%99%8F;Node.js+%7C+Express+%7C+MongoDB+%7C+C%2B%2B;Turning+caffeine+into+commits+since+2023" alt="Typing SVG" />
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=3FB950&center=true&vCenter=true&width=580&lines=function+mihir()+%7B+return+'awesome'+%7D;Building+backends+that+don't+break;ECE+BTech+%7C+2nd+Year+%7C+Grinding;git+push+--force+%26%26+pray;Node.js+%7C+Express+%7C+MongoDB+%7C+C%2B%2B;Turning+caffeine+into+commits+since+2025" alt="Typing SVG" />
 
 <br/>
 
-<!-- SNAKE — setup instructions in footer. Until then, this animated banner fills the space -->
-<img src="https://capsule-render.vercel.app/api?type=shark&height=60&color=0:0d1117,50:1a3a1a,100:0d1117&section=header&reversal=false&animation=twinkling" />
-
-
-
-<!-- Once your GitHub Action runs, replace the two lines above with this:
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kumamihir/kumamihir/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kumamihir/kumamihir/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kumamihir/kumamihir/output/github-contribution-grid-snake-dark.svg" />
-</picture>
--->
+<!-- ANIMATED WELCOME BANNER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=1200&height=120&lines=WELCOME+BUDDY!" />
+</p>
 
 </div>
 
@@ -35,18 +27,14 @@
 const mihir = {
   name     : "Mihir Kumar",
   alias    : "kumamihir",
-  role     : "2nd Year BTech — ECE @ [Your College]",
+  role     : "2nd Year BTech — ECE",
   focus    : ["DSA", "Backend Dev", "System Design"],
-  stack    : ["C++", "Node.js", "MongoDB", "Express.js"],
-  currentlyLearning : ["System Design", "Redis", "Docker"],
   status   : "Grinding. Building. Shipping.",
-  openTo   : ["Internships", "Collabs", "Open Source"],
-  funFact  : "My git log is basically my diary ",
-  quote    : "Still a NOOB — but I ship every day.",
+  funfact  : "Still a NOOB — but I ship every day.",
 };
 ```
 
->  **Currently:** Leveling up on System Design, DSA patterns & building backend projects
+> **Currently:** Leveling up on System Design, DSA patterns & building backend projects
 
 <br clear="right"/>
 
@@ -54,18 +42,18 @@ const mihir = {
 
 ## `> ./run skills.sh`
 
-** DSA Arsenal**
+**DSA Arsenal**
 
 ```
 Arrays & Strings    ████████████████░░  Strong
 Trees & Graphs      ███████████████░░░  Strong
 Binary Search       ████████████████░░  Strong
-Dynamic Programming █████████░░░░░░░░░  Leveling Up 
+Dynamic Programming █████████░░░░░░░░░  Leveling Up
 Greedy Algorithms   ████████████░░░░░░  Active
 Bit Manipulation    ████████░░░░░░░░░░  Warming Up
 ```
 
-**⚙️ Tech Stack**
+**Tech Stack**
 
 <div align="left">
 
@@ -89,22 +77,16 @@ Bit Manipulation    ████████░░░░░░░░░░  Warm
 
 ## `> cat stats.log`
 
-<div align="center">
+<!-- <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kumamihir&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9&ring_color=3fb950&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumamihir&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&langs_count=8" />
 
-</div>
+</div> -->
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=kumamihir&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3FB950&fire=58A6FF&currStreakLabel=3FB950&sideLabels=58A6FF&dates=8b949e" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-[![Mihir's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kumamihir&bg_color=0d1117&color=3fb950&line=3fb950&point=58a6ff&area=true&area_color=3fb95020&hide_border=true&custom_title=Mihir%27s+Contribution+Graph&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -118,11 +100,6 @@ Bit Manipulation    ████████░░░░░░░░░░  Warm
 [![GFG](https://img.shields.io/badge/GeeksForGeeks-mihirflaxx-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/mihirflaxx/)
 [![Codolio](https://img.shields.io/badge/Codolio-Mihir__kr012-6E40C9?style=for-the-badge&logoColor=white)](https://codolio.com/profile/Mihir_kr012)
 
-</div>
-
-<!-- LEETCODE STATS — hardcoded badges, always render, never break -->
-<div align="center">
-
 <br/>
 
 ![Problems Solved](https://img.shields.io/badge/Solved-617_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
@@ -134,8 +111,6 @@ Bit Manipulation    ████████░░░░░░░░░░  Warm
 ![Medium](https://img.shields.io/badge/Medium-315_%2F_2063-FFA116?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-15_%2F_939-ef4743?style=flat-square)
 
-<br/>
-
 </div>
 
 ---
@@ -144,16 +119,8 @@ Bit Manipulation    ████████░░░░░░░░░░  Warm
 
 <div align="center">
 
->  **Building in public** — check out my repositories below
-
-<br/>
-
 [![Browse All Repos](https://img.shields.io/badge/Browse_All_Repos-kumamihir-3fb950?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/kumamihir?tab=repositories)
 [![Starred By Others](https://img.shields.io/badge/Starred_Projects-View_Here-58a6ff?style=for-the-badge&logo=star&logoColor=white&labelColor=0d1117)](https://github.com/kumamihir?tab=repositories&sort=stargazers)
-
-<br/>
-
-
 
 </div>
 
@@ -172,7 +139,6 @@ Bit Manipulation    ████████░░░░░░░░░░  Warm
 
 ---
 
-<!-- PROFILE VIEWS + TROPHIES — darkhub theme renders reliably -->
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kumamihir&color=3fb950&style=for-the-badge&label=PROFILE+VIEWS)
@@ -184,13 +150,12 @@ Bit Manipulation    ████████░░░░░░░░░░  Warm
 
 ---
 
-<!-- FIRE QUOTES — hardcoded, no broken API -->
 <div align="center">
 
 ```
 
   "Code is like humor. When you have to explain it, it's bad."
-                                      — Cory House
+                                         — Cory House
 
 ```
 
