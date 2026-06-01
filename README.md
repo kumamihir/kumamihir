@@ -54,7 +54,7 @@ const mihir = {
 
 ## `> ./run skills.sh`
 
-**🧠 DSA Arsenal**
+** DSA Arsenal**
 
 ```
 Arrays & Strings    ████████████████░░  Strong
