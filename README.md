@@ -5,17 +5,23 @@
 
 <br/>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=3FB950&center=true&vCenter=true&width=560&lines=function+mihir()+%7B+return+'awesome'+%7D+%E2%9C%93;Building+backends+that+don't+break+%E2%9A%99%EF%B8%8F;Node.js+%7C+Express+%7C+MongoDB+%7C+C%2B%2B;ECE+BTech+%7C+2nd+Year+%7C+2026+%F0%9F%8E%93;LeetCode+grind+at+2am+%F0%9F%8C™;git+push+--force+%26%26+pray+%F0%9F%99%8F;Still+a+NOOB+—+but+shipping+every+day+%F0%9F%94%A5" alt="Typing SVG" />
+<!-- TYPING ANIMATION — fixed encoding, no broken emoji chars -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=3FB950&center=true&vCenter=true&width=580&lines=function+mihir()+%7B+return+'awesome'+%7D;Building+backends+that+don't+break+%E2%9A%99%EF%B8%8F;617+LeetCode+solved+and+counting...;ECE+BTech+%7C+2nd+Year+%7C+Grinding+%F0%9F%94%A5;git+push+--force+%26%26+pray+%F0%9F%99%8F;Node.js+%7C+Express+%7C+MongoDB+%7C+C%2B%2B;Turning+caffeine+into+commits+since+2023" alt="Typing SVG" />
 
 <br/>
 
-<!-- SNAKE CONTRIBUTION ANIMATION -->
+<!-- SNAKE — setup instructions in footer. Until then, this animated banner fills the space -->
+<img src="https://capsule-render.vercel.app/api?type=shark&height=60&color=0:0d1117,50:1a3a1a,100:0d1117&section=header&reversal=false&animation=twinkling" />
+
+> ⚡ **Snake animation:** After copying this README, run the GitHub Action once — see setup note at the bottom.
+
+<!-- Once your GitHub Action runs, replace the two lines above with this:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kumamihir/kumamihir/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kumamihir/kumamihir/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/kumamihir/kumamihir/output/github-contribution-grid-snake-dark.svg" />
 </picture>
+-->
 
 </div>
 
@@ -30,17 +36,17 @@ const mihir = {
   name     : "Mihir Kumar",
   alias    : "kumamihir",
   role     : "2nd Year BTech — ECE @ [Your College]",
-  focus    : ["DSA ", "Backend Dev ", "System Design "],
+  focus    : ["DSA 🧠", "Backend Dev ⚙️", "System Design 🏗️"],
   stack    : ["C++", "Node.js", "MongoDB", "Express.js"],
   currentlyLearning : ["System Design", "Redis", "Docker"],
-  status   : " Grinding. Building. Shipping.",
+  status   : "⚡ Grinding. Building. Shipping.",
   openTo   : ["Internships", "Collabs", "Open Source"],
-  funFact  : "My git log is basically my diary ",
+  funFact  : "My git log is basically my diary 📓",
   quote    : "Still a NOOB — but I ship every day.",
 };
 ```
 
->  **Currently:** Leveling up on System Design, DSA patterns & building backend projects
+> 🔥 **Currently:** Leveling up on System Design, DSA patterns & building backend projects
 
 <br clear="right"/>
 
@@ -48,13 +54,13 @@ const mihir = {
 
 ## `> ./run skills.sh`
 
-** DSA Arsenal**
+**🧠 DSA Arsenal**
 
 ```
 Arrays & Strings    ████████████████░░  Strong
 Trees & Graphs      ███████████████░░░  Strong
 Binary Search       ████████████████░░  Strong
-Dynamic Programming █████████░░░░░░░░░  Leveling Up 
+Dynamic Programming █████████░░░░░░░░░  Leveling Up 🔄
 Greedy Algorithms   ████████████░░░░░░  Active
 Bit Manipulation    ████████░░░░░░░░░░  Warming Up
 ```
@@ -127,8 +133,17 @@ Bit Manipulation    ████████░░░░░░░░░░  Warm
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kumamihir&repo=YOUR_BEST_REPO_1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/kumamihir/YOUR_BEST_REPO_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kumamihir&repo=YOUR_BEST_REPO_2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/kumamihir/YOUR_BEST_REPO_2)
+> 🚧 **Building in public** — check out my repositories below
+
+<br/>
+
+[![Browse All Repos](https://img.shields.io/badge/Browse_All_Repos-kumamihir-3fb950?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/kumamihir?tab=repositories)
+[![Starred By Others](https://img.shields.io/badge/Starred_Projects-View_Here-58a6ff?style=for-the-badge&logo=star&logoColor=white&labelColor=0d1117)](https://github.com/kumamihir?tab=repositories&sort=stargazers)
+
+<br/>
+
+> 💡 *Have a public project? Drop in the repo name below and uncomment these cards:*
+> `https://github-readme-stats.vercel.app/api/pin/?username=kumamihir&repo=YOUR_REPO_NAME&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=58a6ff`
 
 </div>
 
@@ -147,23 +162,32 @@ Bit Manipulation    ████████░░░░░░░░░░  Warm
 
 ---
 
-<!-- PROFILE VIEWS COUNTER + TROPHY -->
+<!-- PROFILE VIEWS + TROPHIES — darkhub theme renders reliably -->
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kumamihir&color=3fb950&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kumamihir&theme=matrix&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kumamihir&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-<!-- RANDOM DEV QUOTE -->
+<!-- FIRE QUOTES — hardcoded, no broken API -->
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+```
+  "The best error message is the one that never shows up."
+                                         — Thomas Fuchs
+
+  "Code is like humor. When you have to explain it, it's bad."
+                                         — Cory House
+
+  "First, solve the problem. Then, write the code."
+                                         — John Johnson
+```
 
 </div>
 
@@ -171,6 +195,6 @@ Bit Manipulation    ████████░░░░░░░░░░  Warm
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,100:58a6ff&height=120&section=footer&text=Keep+Building.+Keep+Breaking.+Keep+Shipping.&fontSize=16&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,100:58a6ff&height=120&section=footer&text=Read+less.+Build+more.+Ship+daily.&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
 
 </div>
