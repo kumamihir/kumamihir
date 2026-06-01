@@ -13,7 +13,7 @@
 <!-- SNAKE — setup instructions in footer. Until then, this animated banner fills the space -->
 <img src="https://capsule-render.vercel.app/api?type=shark&height=60&color=0:0d1117,50:1a3a1a,100:0d1117&section=header&reversal=false&animation=twinkling" />
 
-> ⚡ **Snake animation:** After copying this README, run the GitHub Action once — see setup note at the bottom.
+
 
 <!-- Once your GitHub Action runs, replace the two lines above with this:
 <picture>
@@ -36,17 +36,17 @@ const mihir = {
   name     : "Mihir Kumar",
   alias    : "kumamihir",
   role     : "2nd Year BTech — ECE @ [Your College]",
-  focus    : ["DSA 🧠", "Backend Dev ⚙️", "System Design 🏗️"],
+  focus    : ["DSA", "Backend Dev", "System Design"],
   stack    : ["C++", "Node.js", "MongoDB", "Express.js"],
   currentlyLearning : ["System Design", "Redis", "Docker"],
-  status   : "⚡ Grinding. Building. Shipping.",
+  status   : "Grinding. Building. Shipping.",
   openTo   : ["Internships", "Collabs", "Open Source"],
-  funFact  : "My git log is basically my diary 📓",
+  funFact  : "My git log is basically my diary ",
   quote    : "Still a NOOB — but I ship every day.",
 };
 ```
 
-> 🔥 **Currently:** Leveling up on System Design, DSA patterns & building backend projects
+>  **Currently:** Leveling up on System Design, DSA patterns & building backend projects
 
 <br clear="right"/>
 
@@ -60,7 +60,7 @@ const mihir = {
 Arrays & Strings    ████████████████░░  Strong
 Trees & Graphs      ███████████████░░░  Strong
 Binary Search       ████████████████░░  Strong
-Dynamic Programming █████████░░░░░░░░░  Leveling Up 🔄
+Dynamic Programming █████████░░░░░░░░░  Leveling Up 
 Greedy Algorithms   ████████████░░░░░░  Active
 Bit Manipulation    ████████░░░░░░░░░░  Warming Up
 ```
@@ -144,7 +144,7 @@ Bit Manipulation    ████████░░░░░░░░░░  Warm
 
 <div align="center">
 
-> 🚧 **Building in public** — check out my repositories below
+>  **Building in public** — check out my repositories below
 
 <br/>
 
@@ -153,8 +153,7 @@ Bit Manipulation    ████████░░░░░░░░░░  Warm
 
 <br/>
 
-> 💡 *Have a public project? Drop in the repo name below and uncomment these cards:*
-> `https://github-readme-stats.vercel.app/api/pin/?username=kumamihir&repo=YOUR_REPO_NAME&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=58a6ff`
+
 
 </div>
 
@@ -180,7 +179,6 @@ Bit Manipulation    ████████░░░░░░░░░░  Warm
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kumamihir&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -190,14 +188,10 @@ Bit Manipulation    ████████░░░░░░░░░░  Warm
 <div align="center">
 
 ```
-  "The best error message is the one that never shows up."
-                                         — Thomas Fuchs
 
   "Code is like humor. When you have to explain it, it's bad."
-                                         — Cory House
+                                      — Cory House
 
-  "First, solve the problem. Then, write the code."
-                                         — John Johnson
 ```
 
 </div>
